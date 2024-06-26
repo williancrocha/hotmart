@@ -15,8 +15,6 @@ Header.propTypes = {
   children: PropTypes.node,
 };
 
-Header.defaultProps = {
-  title: "JStack Blog",
-};
+
 
 export default Header;
